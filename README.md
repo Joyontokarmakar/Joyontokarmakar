@@ -1,4 +1,8 @@
 ### Joyonto Karmakar
+## I'm a 😍😍 JavaScript Lover 😍😍!
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Joyontokarmakar" alt="Joyonto Karmakar" /> </p>
+
 
 - 💻 I’m currently working ... as a frontend web developer at Jatri Service Limited
 - 🎓 I’m currently learning ... MERN (MogoDb, Express Js, React Js, Node Js) Stack
@@ -6,11 +10,6 @@
 - 🤔 I’m looking for help with ... Expert Programmer
 - 💬 Ask me about ... Anything
 - ⌨ How to reach me: ...
-
-## I'm a 😍😍 JavaScript Lover 😍😍!
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Joyontokarmakar" alt="Joyonto Karmakar" /> </p>
-
 
 ### Connect with me:
 
