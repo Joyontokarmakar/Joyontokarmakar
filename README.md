@@ -45,6 +45,10 @@
     <img src = "https://github-readme-stats.vercel.app/api?username=Joyontokarmakar&show_icons=true&count_private=true&theme=bear" width = 400>
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=Joyontokarmakar&theme=dark&hide_border=true" width = 400>
   </p>
+  
+  <p align="center">
+    ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Joyontokarmakar&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+  </p>
 
 
 
