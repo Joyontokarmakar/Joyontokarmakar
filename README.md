@@ -1,6 +1,4 @@
-### Hi there 👋
-
-###✨ _Joyonto Karmakar_ ✨
+### Joyonto Karmakar
 
 - 💻 I’m currently working ... as a frontend web developer at Jatri Service Limited
 - 🎓 I’m currently learning ... MERN (MogoDb, Express Js, React Js, Node Js) Stack
@@ -8,8 +6,6 @@
 - 🤔 I’m looking for help with ... Expert Programmer
 - 💬 Ask me about ... Anything
 - ⌨ How to reach me: ...
-
-### Muktadir Ahamed Shakib👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 
