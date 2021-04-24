@@ -37,6 +37,7 @@
 <br />
 <br />
 
+[![Joyonto Karmakar's github stats](https://github-readme-stats.vercel.app/api?username=Joyontokarmakar)](https://github.com/Joyontokarmakar/github-readme-stats)
 
 ---
   <p align="center">
