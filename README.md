@@ -5,8 +5,7 @@
 
 
 - 💻 I’m currently working ... as a frontend web developer at Jatri Service Limited
-- 🎓 I’m currently learning ... MERN (MogoDb, Express Js, React Js, Node Js) Stack
-- 👯 I’m looking to collaborate on ... MERN Stack Dev
+- 👯 Currently I am working with ... Vue js, Nuxt js, React js
 - 🤔 I’m looking for help with ... Expert Programmer
 - 💬 Ask me about ... Anything
 - ⌨ How to reach me: ...
