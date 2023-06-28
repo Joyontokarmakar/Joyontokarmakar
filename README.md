@@ -1,5 +1,5 @@
 ### Joyonto Karmakar
-## I'm a FRontend Web Developer 🖥!
+## I'm a Frontend Web Developer 🖥!
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Joyontokarmakar" alt="Joyonto Karmakar" /> </p>
 
