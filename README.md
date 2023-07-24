@@ -4,15 +4,15 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Joyontokarmakar" alt="Joyonto Karmakar" /> </p>
 
 
-- 💻 I’m currently working ... as a frontend web developer at Jatri Service Limited
-- 👯 Currently I am working with ... Vue js, Nuxt js, React js
+- 💻 I’m currently working ... as a frontend web developer
+- 👯 Currently I am working with ... Vue js, Nuxt js, React js, Next js
 - 🤔 I’m looking for help with ... Expert Programmer
 - 💬 Ask me about ... Anything
 - ⌨ How to reach me: ...
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/joyontokarmakar)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/joyontokarmaker/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/joyontostd) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0c66c5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/joyontokarmakar)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/joyontokarmaker/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/joyontostd) 
 
 ### Languages and Tools:
 
