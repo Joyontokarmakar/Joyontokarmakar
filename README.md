@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0c66c5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/joyontokarmakar) [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=000000&logo=medium&logoColor=ffffff)](https://joyonto-karmakar-cse.medium.com/) [![Portfolio Visit](https://img.shields.io/badge/%20-Visit-black?color=14171A&labelColor=FFFF00&logo=cachet&logoColor=000000)](https://www.facebook.com/joyontostd) [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/joyontostd) [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/joyontokarmaker/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0c66c5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/joyontokarmakar) [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=000000&logo=medium&logoColor=ffffff)](https://joyonto-karmakar-cse.medium.com/) [![Portfolio Visit](https://img.shields.io/badge/%20-Visit-black?color=14171A&labelColor=FFFF00&logo=cachet&logoColor=000000)](https://joyontokarmakar.netlify.app/) [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/joyontostd) [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/joyontokarmaker/)
 
 ### Languages and Tools:
 
